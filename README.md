@@ -1,10 +1,10 @@
 # Hi 👋, I'm Hai
 
 ## About Me
-* Control Engineer working with Autonomous Driving systems
-* Interested in building automation and robotics solutions
-* Graduated in Mechatronics Engineering from Hanoi University of Science and Technology
-* Experience with robotics systems, embedded programming, and control systems
+* Autonomous Vehicle Control Engineer at Phenikaa-X.
+* Graduated in Mechatronics Engineering from Hanoi University of Science and Technology.
+* Interested in building automation and robotics solutions.
+* Experience with robotics systems, embedded programming, and control systems.
 
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/hai-mac
